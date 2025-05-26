@@ -10,12 +10,6 @@ This project is a full-stack AI Code Review system that leverages large language
 
 ---
 
-## GitHub Repository
-
-> **GitHub Repository URL:**  https://github.com/Vamshinath89/CODE-REVIEW
-
----
-
 ## Project Structure
 
 ```
