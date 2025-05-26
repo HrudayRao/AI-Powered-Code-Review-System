@@ -3,8 +3,8 @@
 
 This project is a full-stack AI Code Review system that leverages large language models to provide automatic feedback on source code. It includes:
 
-- **frontend** built with Vite + React
-- **backend** built using Node.js + Express
+- **Frontend** built with Vite + React
+- **Backend** built using Node.js + Express
 - Integration with external AI APIs (e.g., Gemini)
 - Local database setup (MongoDB)
 
